@@ -2,6 +2,9 @@
 
 ### this tablet work with 10Ah lipo battery and STM32F407 mcu
 
+## NEW VERSION BASED ON KICAD
+### WORK IN PROGRESS
+
 
 ---
 
