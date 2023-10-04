@@ -5,13 +5,13 @@
 ## NEW VERSION BASED ON KICAD
 
 ### 3D
-![3D VIEW](new/3d.png)
+![3D VIEW](new/3d.PNG)
 
 ### PCB
-![PCB VIEW](new/pcb.png)
+![PCB VIEW](new/pcb.PNG)
 
 ### schematic
-![SCHEMATIC VIEW](new/schematic.png)
+![SCHEMATIC VIEW](new/schematic.PNG)
 
 ---
 
