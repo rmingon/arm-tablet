@@ -15,7 +15,7 @@
 
 ---
 
-## OLD VERSION
+## OLD VERSION BASED ON FUSION360
 
 ## VIEW WORKING VIDEO -> [VIDEO](https://www.youtube.com/shorts/6iCVGylVFGs)
 
