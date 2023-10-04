@@ -2,8 +2,13 @@
 
 ### this tablet work with 10Ah lipo battery and STM32F407 mcu
 
+
+---
+
+## OLD VERSION
+
 ### PCB
-![PCB VIEW](./pcb.png)
+![PCB VIEW](old/pcb.png)
 
 ### schematic
-![PCB VIEW](./schematic.png)
+![PCB VIEW](old/schematic.png)
