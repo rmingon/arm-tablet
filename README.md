@@ -7,6 +7,8 @@
 
 ## OLD VERSION
 
+## VIEW WORKING VIDEO -> [VIDEO](https://www.youtube.com/shorts/6iCVGylVFGs)
+
 ### PCB
 ![PCB VIEW](old/pcb.png)
 
