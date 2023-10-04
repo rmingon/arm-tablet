@@ -3,8 +3,15 @@
 ### this tablet work with 10Ah lipo battery and STM32F407 mcu
 
 ## NEW VERSION BASED ON KICAD
-### WORK IN PROGRESS
 
+### 3D
+![3D VIEW](new/3d.png)
+
+### PCB
+![PCB VIEW](new/pcb.png)
+
+### schematic
+![SCHEMATIC VIEW](new/schematic.png)
 
 ---
 
@@ -16,4 +23,4 @@
 ![PCB VIEW](old/pcb.png)
 
 ### schematic
-![PCB VIEW](old/schematic.png)
+![SCHEMATIC VIEW](old/schematic.png)
